@@ -24,49 +24,49 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
                             header: '☘️ قـسـم الـمطور',
                             title: '.اوامر_المطور',
                             description: '',
-                            id: 'te'
+                            id: 'اوامر_المطور'
                           },
                           {
                             header: '☘️ قـسـم الـجروب',
                             title: '.اوامر_الجروب',
                             description: '',
-                            id: 'te'
+                            id: 'اوامر_الجروب'
                           },
                           {
                             header: '☘️ قـسـم الـتحميل',
                             title: '.اوامر_التحميل',
                             description: '',
-                            id: 'te'
+                            id: 'اوامر_التحميل'
                           },
                           {
                             header: '☘️ قـسـم الـترفيه',
                             title: '.اوامر_الترفيه',
                             description: '',
-                            id: 'te'
+                            id: 'اوامر_الترفيه'
                           },
                           {
-                            header: '☘️ قـسـم الـتحميل',
-                            title: '.اوامر_التحميل',
+                            header: '☘️ قـسـم الـتحويل',
+                            title: '.اوامر_التحويل',
                             description: '',
-                            id: 'te'
+                            id: 'اوامر_التحويل'
                           },
                           {
                             header: '☘️ قـسـم الـدين',
                             title: '.اوامر_الدين',
                             description: '',
-                            id: 'te'
+                            id: 'اوامر_الدين'
                           },
                           {
                             header: '☘️ كل الاوامر',
                             title: '.كل_الاوامر',
                             description: '',
-                            id: 'te'
+                            id: 'كل_الاوامر'
                           },
                           {
                             header: ' ☘️قـسـم الـصوتيات',
                             title: '.اوامر_الصوتيات',
                             description: '',
-                            id: 'te'
+                            id: 'اوامر_الصوتيات'
                           }
                         ]
                       }
