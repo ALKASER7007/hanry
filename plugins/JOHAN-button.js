@@ -22,9 +22,9 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
                         rows: [
                           {
                             header: '☘️ قـسـم الـمطور',
-                            title: '.اوامر_المطور',
+                            title: '.المطور',
                             description: '',
-                            id: 'اوامر_المطور'
+                            id: 'المطور'
                           },
                           {
                             header: '☘️ قـسـم الـجروب',
@@ -58,9 +58,9 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
                           },
                           {
                             header: '☘️ كل الاوامر',
-                            title: '.كل_الاوامر',
+                            title: '.اوامر',
                             description: '',
-                            id: 'كل_الاوامر'
+                            id: 'اوامر'
                           },
                           {
                             header: ' ☘️قـسـم الـصوتيات',
