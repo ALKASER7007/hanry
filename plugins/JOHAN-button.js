@@ -22,3 +22,33 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
                         rows: [
                           {
                             header: '☘️ قـسـم الـنـظـام',
+                            title: '.النظام_كود',
+                            description: '',
+                            id: 'te'
+                          },
+                          {
+                            header: '👑 قـسـم الـمـطـور',
+                            title: '.المطور_كود',
+                            description: '',
+                            id: 'te'
+                          }
+                        ]
+                      }
+                    ]
+                  }),
+                  messageParamsJson: ''
+                }
+              ]
+            }
+          }
+        }
+      }
+    }, {})
+
+}
+
+handler.help = ['info']
+handler.tags = ['main']
+handler.command = ['القائمة']
+
+export default handler
